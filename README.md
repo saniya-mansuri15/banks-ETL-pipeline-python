@@ -1,4 +1,8 @@
 # Banks ETL Pipeline using Python 🏦
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+> A capstone project for the **IBM Data Engineering Professional Certificate** on Coursera
 
 A complete ETL (Extract, Transform, Load) pipeline that extracts data of the world's largest banks from Wikipedia, transforms market capitalization from USD to INR, and loads the data into both CSV and SQLite database.
 
