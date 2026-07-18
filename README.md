@@ -67,7 +67,7 @@ code_log.txt            -  Logs of ETL process
 
 ## 👩‍💻 Author
 **Saniya Mansuri**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/saniya-mansuri)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/saniya-mansuri15)
 
 ---
 ⭐ If you found this project helpful, please give it a star!
